@@ -16,6 +16,16 @@ const background = new Sprite({
   imageSrc: './img/background.png'
 })
 
+const shop = new Sprite({
+  position: {
+    x: 600,
+    y: 128,
+  },
+  imageSrc: './img/shop.png',
+  scale: 2.75,
+  framesMax: 6
+})
+
 const player = new Fighter({
   position: {
     x: 0,
@@ -25,9 +35,22 @@ const player = new Fighter({
     x: 0,
     y: 0
   },
+  imageSrc: './img/samuraiMack/Idle.png',
+  framesMax: 8,
+  scale: 2.5,
   offset: {
-    x: 50,
-    y: 0
+    x: 215,
+    y: 157
+  },
+  sprites: {
+    idle: {
+      imageSrc: '.img/samuraiMack/Idel.png',
+      frameMax: 8
+    },
+    run : {
+      imageSrc: '.img/samuraiMack/Run.png',
+      frameMax: 8
+    }
   }
 })
 
@@ -72,8 +95,9 @@ function animate() {
   c.fillStyle = 'black'
   c.fillRect(0, 0, canvas.width, canvas.height)
   background.update()
+  shop.update()
   player.update(),
-  enemy.update()
+  // enemy.update()
 
   player.velocity.x = 0
   enemy.velocity.x = 0
