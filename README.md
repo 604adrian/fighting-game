@@ -2,21 +2,30 @@
 
 A good ol' fashioned Kung Fu fighting game.
 
-Play the game on GitHub pages: [https://604adrian.github.io/fighting-game/]
+Play the game on GitHub pages: https://604adrian.github.io/fighting-game/
+
+Here's what the game looks like:
+
+![A screenshot I took of the game](./img/screencap.png)
 
 ## How to play
 The controls for Player 1 are as follows:
-`a: move left
-b: move right
-w: jump
-space bar: attack`
+`a: move left`
+
+`b: move right`
+
+`w: jump`
+
+`space bar: attack`
 
 The controls for Player 2 are as follows:
-`left arrow: move left
-right arrow: move right
-up arrow: jump
-down arrow: attack`
+`left arrow: move left`
 
+`right arrow: move right`
+
+`up arrow: jump`
+
+`down arrow: attack`
 
 ## Credits
 I made this game by following the Youtube tutorial posted by 'Chris Courses'. The tutorial video can be found [here](https://www.youtube.com/watch?v=vyqbNFMDRGQ&list=TLPQMjgwNjIwMjOseK3axPC-Wg&index=7).
