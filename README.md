@@ -1,12 +1,10 @@
 # A fighting game
 
-A good ol' fashioned Kung Fu fighting game.
-
-Play the game on GitHub pages: https://604adrian.github.io/fighting-game/
-
-Here's what the game looks like:
+A good ol' fashioned Kung Fu fighting game. Here's what the game looks like:
 
 ![A screenshot I took of the game](./img/screencap.png)
+
+Play the game on GitHub pages: https://604adrian.github.io/fighting-game/
 
 ## How to play
 The controls for Player 1 are as follows:
