@@ -8,22 +8,16 @@ Play the game on GitHub pages: https://604adrian.github.io/fighting-game/
 
 ## How to play
 The controls for Player 1 are as follows:
-`a: move left`
-
-`b: move right`
-
-`w: jump`
-
-`space bar: attack`
+- __a__: move left
+- __b__: move right
+- __w__: jump
+- __space bar__: attack
 
 The controls for Player 2 are as follows:
-`left arrow: move left`
-
-`right arrow: move right`
-
-`up arrow: jump`
-
-`down arrow: attack`
+- __left arrow__: move left
+- __right arrow__: move right
+- __up arrow__: jump
+- __down arrow__: attack
 
 ## Credits
 I made this game by following the Youtube tutorial posted by 'Chris Courses'. The tutorial video can be found [here](https://www.youtube.com/watch?v=vyqbNFMDRGQ&list=TLPQMjgwNjIwMjOseK3axPC-Wg&index=7).
